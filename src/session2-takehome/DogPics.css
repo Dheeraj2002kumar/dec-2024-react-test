@@ -1,0 +1,35 @@
+.dog-pics {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+select {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.dog-image-container {
+  margin: 20px;
+}
+
+.dog-image-container img {
+  max-width: 300px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
